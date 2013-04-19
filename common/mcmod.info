@@ -1,0 +1,20 @@
+[
+{
+  "modid": "LetsMod",
+  "name": "Let's Mod",
+  "description": "Learning to mod",
+  "version": "0.0.1",
+  "url": " ",
+  "updateUrl": "",
+  "authorList": [
+   "kofer99"
+  ],
+  "credits": "By Kofer who learns to mod",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
